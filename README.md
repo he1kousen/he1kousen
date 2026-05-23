@@ -25,24 +25,14 @@ I'm still in the learning process, so I'm continuously improving my understandin
 - Tailwind CSS
 - Laravel
 - MySQL
+- PostgreSQL
 - Git & GitHub
-
-## Currently Learning
-
-- Frontend Development
-- React.js
-- Tailwind CSS
-- Responsive Web Design
-- UI/UX Basics
-- Clean Code
-- Web Development Best Practices
 
 ## Featured Projects
 
-- Personal Portfolio Website 
-- Inventory Management System
-- ERP Web System
-- Landing Page Projects
+- [Zenitech - Apple Authorized Reseller](https://github.com/he1kousen/zenitech)
+- [WebInventory - Manajemen Stok Barang berbasis web](https://github.com/he1kousen/webinventory)
+- [he1kousen - Portfolio](https://github.com/he1kousen/portfolio-v2)
 
 ## Contact
 

@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/angkrnia">
-    <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=435&lines=Welcome+to+my+GitHub!;Code%2C+Learn%2C+Repeat!;Let's+build+something+awesome!](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I+am+Ikhsan.;i+go+by+%22he1kousen%22+online.;Welcome+to+my+GitHub+profile!+%3AD)">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I+am+Ikhsan.;i+go+by+%22he1kousen%22+online.;Welcome+to+my+GitHub+profile!+%3AD">
   </a>
 </p>
 
